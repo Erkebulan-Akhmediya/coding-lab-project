@@ -1,1 +1,0 @@
-open outter "codelab" directory in the code editor and type "py manage.py renserver" in the command line, then go to localhost through web browser
