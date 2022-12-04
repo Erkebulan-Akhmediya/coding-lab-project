@@ -1,4 +1,9 @@
-#### To run the project:
+### To clone repository:
+```
+git clone https://github.com/Erkebulan-Akhmediya/coding-lab-project.git
+```
+
+### To start the project:
 ```
 py manage.py runserver
 ```
